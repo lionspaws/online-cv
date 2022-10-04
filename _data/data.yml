@@ -41,13 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Crafting
+        - item: Computer Graphics
           link:
 
-        - item: 
+        - item: Human-Computer Interfaces
           link:
 
-        - item: 
+        - item: Visualisation
           link:
 
 career-profile:
@@ -77,6 +77,7 @@ experiences:
         time: 2014 - 2015
         company: Aberystwyth University
         details: |
+
 projects:
     title: Projects
     intro: 
@@ -87,7 +88,7 @@ projects:
 
 publications:
     title: Selected Publications
-    intro: |
+    intro: 
     papers:
       - title: Seeing Through the “Science Eyes” of the ExoMars Rover
         link: "https://ieeexplore.ieee.org/iel7/38/9020230/09020214.pdf"
@@ -113,13 +114,7 @@ publications:
         link: "https://doi.org/10.1016/j.cag.2012.04.007"
         authors: HC Miles, SR Pop, SJ Watt, GP Lawrence, NW John
         conference: Elsevier Computers & Graphics
-        
-#skills:
-    title: #Skills &amp; Proficiency
 
-    toolset:
-      - name: 
-        level: 
 
 
 footer: >
