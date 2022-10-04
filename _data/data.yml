@@ -86,16 +86,36 @@ projects:
         tagline: "2020-24 PI, PhD Studentship, AIMLAC CDT"
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
     papers:
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
-
+      - title: Seeing Through the “Science Eyes” of the ExoMars Rover
+        link: "https://ieeexplore.ieee.org/iel7/38/9020230/09020214.pdf"
+        authors: HC Miles, MD Gunn, AJ Coates
+        conference: IEEE Computer Graphics and Applications 40 (2), 71-81
+      - title: A community-built virtual heritage collection
+        link: "https://link.springer.com/chapter/10.1007/978-3-662-49247-5_6"
+        authors: HC Miles, AT Wilson, F Labrosse, B Tiddeman, JC Roberts
+        conference: Springer Transactions on computational science XXVI, 91-110
+      - title: Alternative representations of 3D-reconstructed heritage data
+        link: "https://dl.acm.org/doi/pdf/10.1145/2795233"
+        authors: HC Miles, AT Wilson, F Labrosse, B Tiddeman, S Griffiths, B Edwards, PD Ritsos, JW Mearman, K Moeller, R Karl, JC Roberts
+        conference: ACM Journal on Computing and Cultural Heritage (JOCCH) 9 (1), 1-18
+      - title: Storyboarding for visual analytics
+        link: "https://journals.sagepub.com/doi/pdf/10.1177/1473871613487089"
+        authors: R Walker, Ll Ap Cenydd, SR Pop, HC Miles, CJ Hughes, WJ Teahan, JC Roberts
+        conference: Sage Information Visualization
+      - title: Efficacy of a virtual environment for training ball passing skills in rugby
+        link: "https://link.springer.com/chapter/10.1007/978-3-662-43790-2_6"
+        authors: HC Miles, SR Pop, SJ Watt, GP Lawrence, NW John, V Perrot, P Mallet, DR Mestre, K Morgan
+        conference: Springer Transactions on Computational Science XXIII
+      - title: A review of virtual environments for training in ball sports
+        link: "https://doi.org/10.1016/j.cag.2012.04.007"
+        authors: HC Miles, SR Pop, SJ Watt, GP Lawrence, NW John
+        conference: Elsevier Computers & Graphics
+        
 skills:
-    title: Skills &amp; Proficiency
+    title: #Skills &amp; Proficiency
 
     toolset:
       - name: 
