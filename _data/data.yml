@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dr Helen Miles
-    tagline: Lecturer in Computer Science, Aberystwyth University
+    tagline: Senior Lecturer in Computer Science, Aberystwyth University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     timezone: #America/Cancun Timezone
     citizenship:
     website: lionspaws.github.io #do not add http://
-    linkedin: #alandoe
+    linkedin: helencmiles
     xing: #alandoe
     github: lionspaws
     telegram: # add your nickname without '@' sign
@@ -44,7 +44,7 @@ sidebar:
         - item: Computer Graphics
           link:
 
-        - item: Human-Computer Interfaces
+        - item: Human-Computer Interaction
           link:
 
         - item: Visualisation
@@ -68,7 +68,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Teaching Fellow / Associate Lecturer / Lecturer
+      - role: Teaching Fellow / Associate Lecturer / Lecturer / Senior Lecturer
         time: 2015 - Present
         company: Aberystwyth University
         details: |
@@ -82,9 +82,27 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: 'Through their eyes': virtual experience as a help-seeker of domestic violence and abuse
+        link: "https://dna.wales/projects/", "https://dna.wales/wp-content/uploads/WDNA-A1-Poster_Domestic-Violence_E.pdf"
+        tagline: "2022 PI, Welsh Government and Wales Data Nation Accelerator"
       - title: Approximating the colour of Mars
         link: "https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview"
         tagline: "2020-24 PI, PhD Studentship, AIMLAC CDT"
+      - title: Advanced Media Production
+        link: "https://amp.aber.ac.uk/en/home/"
+        tagline: "2019-23 PI, ESF/WEFO"
+      - title: ESA ExoMars: PanCam and Enfys
+        link: "https://exomars.wales/"
+        tagline: "2018-28 Co-I, UK Space Agency"
+      - title: Co-Production of alternative views of lost heritage
+        link: "https://gtr.ukri.org/projects?ref=AH%2FL007916%2F1#/tabOverview"
+        tagline: "2014-15 PDRA , AHRC"
+      - title: Alternative views on the lost heritage of Gwynedd
+        link: "https://gtr.ukri.org/projects?ref=AH%2FK006401%2F1"
+        tagline: "2013-14 RA, AHRC"
+      - title: A Virtual Environment for Rugby Skills Training
+        link: "http://www.rivic.ac.uk/research/Member/Helen-Miles.html"
+        tagline: "2010-14 PhD Candidate, ESF KESS/Bangor University/Rygbi Innovations"
 
 publications:
     title: Selected Publications
