@@ -82,6 +82,14 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: Green Digital Transformation
+        link: "https://ibersdl.org.uk/registration/green-digital-transformation"
+        tagline: "2024 Co-I, UK Shared Prosperity Fund and Powys County Council"
+
+      - title: Institute of Coding in Wales Digital Skills Bootcamps
+        link: "https://research.aber.ac.uk/en/projects/institute-of-coding-in-wales-digital-skills-bootcamps-202223"
+        tagline: "2023-24 Aberystwyth PI, HEFCW and Welsh Government"
+  
       - title: Through their eyes - virtual experience as a help-seeker of domestic violence and abuse
         link: "https://dna.wales/wp-content/uploads/WDNA-A1-Poster_Domestic-Violence_E.pdf"
         tagline: "2022 PI, Welsh Government and Wales Data Nation Accelerator"
@@ -100,7 +108,7 @@ projects:
         
       - title: Co-Production of alternative views of lost heritage
         link: "https://gtr.ukri.org/projects?ref=AH%2FL007916%2F1#/tabOverview"
-        tagline: "2014-15 PDRA , AHRC"
+        tagline: "2014-15 PDRA, AHRC"
         
       - title: Alternative views on the lost heritage of Gwynedd
         link: "https://gtr.ukri.org/projects?ref=AH%2FK006401%2F1"
