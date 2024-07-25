@@ -74,7 +74,7 @@ experiences:
         details: |
         
       - role: PDRA
-        time: 2014 - 2015
+        time: Feb 2014 - Nov 2015
         company: Aberystwyth University
         details: |
 
@@ -122,6 +122,10 @@ publications:
     title: Selected Publications
     intro: 
     papers:
+      - title: Designing a Virtual Toolkit for Analysing Planetary Science Data in Virtual Reality
+        link: "https://doi.org/10.1109/TVCG.2024.3399831"
+        authors: HC Miles, A Jones
+        conference: IEEE Transactions on Visualization and Computer Graphics (Preprint: May 2024)
       - title: Seeing Through the “Science Eyes” of the ExoMars Rover
         link: "https://ieeexplore.ieee.org/iel7/38/9020230/09020214.pdf"
         authors: HC Miles, MD Gunn, AJ Coates
